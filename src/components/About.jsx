@@ -14,23 +14,18 @@ const About = () => {
         </div>
 
         <p className="text-xl leading-relaxed mt-10">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          Welcome! I'm Mihir, a passionate and focused individual who thrives in a fast paced environment.
+          Along with solid foundations in ds & algo, I specializes in web development. My unwavering passion for developing things from scratch, 
+          drives me to stay ahead of emerging trends and deliver outstanding results through creativity, strategic thinking, and attention to detail.
         </p>
 
         <br />
 
         <p className="text-xl leading-relaxed mb-10">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+           My portfolio showcases my efforts in making personal projects. Each project represents a unique challenge,
+          & helped me unlock new set of skills during it's making. I foster collaboration and value diverse perspectives
+          to create meaningful experiences and drive measurable results. <br />
+          Thank you for visiting! Let's connect & discuss what's ahead.
         </p>
       </div>
     </div>
