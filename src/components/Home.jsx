@@ -24,7 +24,8 @@ const Home = () => {
             A web development enthusiast with a knack for problem solving, a programming geek & a teacher. <br />
           </p>
 
-          <div>
+        <div className="inline-flex"> 
+         <div>
             <Link 
             to="projects" 
             smooth duration={500} 
@@ -39,7 +40,21 @@ const Home = () => {
               </span>
             </Link>
           </div>
+
+         <div className="mx-3">
+          <a href="https://drive.google.com/file/d/12Ni7J8jHKa47IGKBV0xjO3Qc7EV6Laxz/view?usp=share_link" 
+            className="group text-white w-fit
+            px-6 py-3 my-3 flex items-center rounded-md 
+            bg-gradient-to-r from-yellow-300 to-yellow-700
+            cursor-pointer"
+            target= '_blank'
+            rel="noreferrer">
+            Resume <span className='mx-1'><BsFillPersonLinesFill size={20}/></span>
+          </a>
+          </div>
         </div>
+         
+       </div>
 
         <div>
           <img 
