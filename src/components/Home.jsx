@@ -2,6 +2,7 @@ import React from 'react';
 import { MdOutlineKeyboardArrowRight} from "react-icons/md";
 import heroImage  from "../assets/heroImage.png";
 import {Link} from "react-scroll";
+import { BsFillPersonLinesFill } from "react-icons/bs";
 
 const Home = () => {
   return (
