@@ -15,15 +15,15 @@ const About = () => {
 
         <p className="text-xl leading-relaxed mt-10">
           Welcome! I'm <span className="text-yellow-500">Mihir Sharma</ span>, a passionate and focused individual who thrives in a fast paced environment.
-          Along with solid foundations in ds & algo, I specializes in web development. My unwavering passion for developing things from scratch, 
-          drives me to stay ahead of emerging trends and deliver outstanding results through creativity, strategic thinking, and attention to detail.
+          Along with solid foundations in ds & algo, I specializes in web development. 
         </p>
 
         <br />
 
         <p className="text-xl leading-relaxed mb-10">
           My unwavering passion for developing things from scratch, drives me to stay ahead of emerging trends and deliver outstanding results through 
-          creativity, strategic thinking, and attention to detail. <br />
+          creativity, strategic thinking, and attention to detail. 
+          <br />
           Thank you for visiting! Let's connect & discuss what's ahead.
         </p>
       </div>
