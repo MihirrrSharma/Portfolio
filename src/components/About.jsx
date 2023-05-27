@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl leading-relaxed mt-10">
-          Welcome! I'm Mihir, a passionate and focused individual who thrives in a fast paced environment.
+          Welcome! I'm <span className="text-yellow-500">Mihir Sharma</ span>, a passionate and focused individual who thrives in a fast paced environment.
           Along with solid foundations in ds & algo, I specializes in web development. My unwavering passion for developing things from scratch, 
           drives me to stay ahead of emerging trends and deliver outstanding results through creativity, strategic thinking, and attention to detail.
         </p>
