@@ -22,9 +22,8 @@ const About = () => {
         <br />
 
         <p className="text-xl leading-relaxed mb-10">
-           My portfolio showcases my efforts in making personal projects. Each project represents a unique challenge,
-          & helped me unlock new set of skills during it's making. I foster collaboration and value diverse perspectives
-          to create meaningful experiences and drive measurable results. <br />
+          My unwavering passion for developing things from scratch, drives me to stay ahead of emerging trends and deliver outstanding results through 
+          creativity, strategic thinking, and attention to detail. <br />
           Thank you for visiting! Let's connect & discuss what's ahead.
         </p>
       </div>
