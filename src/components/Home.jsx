@@ -43,7 +43,7 @@ const Home = () => {
           </div>
 
          <div className="mx-3">
-          <a href="https://drive.google.com/file/d/12Ni7J8jHKa47IGKBV0xjO3Qc7EV6Laxz/view?usp=share_link" 
+          <a href="https://drive.google.com/file/d/1wzYLJe3pTiYXK4-2V-GojOtiGuD52q6D/view?usp=sharing" 
             className="group text-white w-fit
             px-6 py-3 my-3 flex items-center rounded-md 
             bg-gradient-to-r from-yellow-300 to-yellow-700
