@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { HiOutlineMail } from "react-icons/hi";
-import { BsFillPersonLinesFill } from "react-icons/bs";
+
 
 const SocialLinks = () => {
 
@@ -33,17 +33,8 @@ const SocialLinks = () => {
             </> 
         ), 
         href : "mailto: foo@gmail.com ",
-    },
-    {
-        id : 4,
-        child : (
-            <>
-                Resume <BsFillPersonLinesFill size={30}/>
-            </> 
-        ), 
-        href : "https://drive.google.com/file/d/12Ni7J8jHKa47IGKBV0xjO3Qc7EV6Laxz/view?usp=share_link",
-        style : 'rounded-br-md'
     }
+    
   ]
 
   return (
