@@ -1,18 +1,14 @@
 import React from 'react';
 
 import Bootstrap from "../assets/Bootstrap.png";
-import Ccpp from "../assets/Ccpp.png";
 import Css from "../assets/Css.png";
 import Git1 from "../assets/Git1.png";
-import Github from "../assets/Github.png";
 import Html from "../assets/Html.png";
 import Javascript from "../assets/Javascript.png";
 import Node from "../assets/Node.png";
 import Python from "../assets/Python.png";
 import Reactt from "../assets/Reactt.png";
-import Sass from "../assets/Sass.png";
 import Tailwind from "../assets/Tailwind.png";
-import Vscode from "../assets/Vscode.png";
 import {
   TypeScriptIcon,
   ExpressIcon,
