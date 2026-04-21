@@ -9,7 +9,7 @@ const Projects = () => {
         {
           id: 1,
           src: Box_Office,
-          href1: "https://box-office-z18g-xr0j-8w54bituw-mihirrrsharmas-projects.vercel.app/",
+          href1: "https://box-office-z18g-xr0j-pbsonls33-mihirrrsharmas-projects.vercel.app/",
           href2: "https://github.com/MihirrrSharma/BoxOffice_",
         },
         {
